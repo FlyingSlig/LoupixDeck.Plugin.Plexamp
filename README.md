@@ -119,6 +119,13 @@ The output lands in `bin/Release/`.
 - Plex Companion is an older protocol. It works with current Plexamp releases, but Plex
   may change or retire it in the future.
 
+## AI-assisted development
+
+This plugin was developed with the help of an AI coding agent. It has been built and tested
+against a live Plex Media Server and Plexamp player, but AI-generated code can still contain
+mistakes or miss edge cases. Review the source before deploying it, and treat it as provided
+"as is", without warranty — see [LICENSE](LICENSE).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
