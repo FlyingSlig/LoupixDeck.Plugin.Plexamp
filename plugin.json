@@ -1,0 +1,12 @@
+{
+  "id": "plexamp",
+  "name": "Plexamp",
+  "version": "1.0.0",
+  "sdkVersion": "1.36",
+  "entryAssembly": "LoupixDeck.Plugin.Plexamp.dll",
+  "platform": "All",
+  "author": "FlyingSlig",
+  "description": "Browse Plex music artists, albums, singles and compilations and play them on a local Plexamp player.",
+  "projectUrl": "https://github.com/FlyingSlig/LoupixDeck.Plugin.Plexamp",
+  "iconFile": ""
+}

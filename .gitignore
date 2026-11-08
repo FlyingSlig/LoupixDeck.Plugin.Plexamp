@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+.vs/
+.idea/
+dist/
+
+# Runtime state: never commit plugin settings (they contain the Plex token).
+settings.json
+*.log
+*.nupkg
+
+CLAUDE.md
