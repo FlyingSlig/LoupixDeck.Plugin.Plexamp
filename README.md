@@ -7,6 +7,11 @@ Built against [LoupixDeck.PluginSdk](https://github.com/RadiatorTwo/LoupixDeck.P
 
 Source: <https://github.com/FlyingSlig/LoupixDeck.Plugin.Plexamp>
 
+> [!NOTE]
+> **AI disclaimer:** this project was written with the help of an AI coding assistant. It has been
+> built and tested against a live Plex Media Server and Plexamp player, but it comes with no
+> warranty. Review the code before relying on it.
+
 ## What it does
 
 - Connects to a Plex Media Server with your Plex token.
